@@ -1,0 +1,13 @@
+{
+  "badge_title": "Make 101 Introduction to Makerspace",
+  "badge_description": "This badge recognizes students who identify foundational Makerspace safety protocols and understand key equipment operations during the orientation program.",
+  "issuer": "Makerspace",
+  "audience_type": "njit_student",
+  "earning_criteria_text": "Earners will identify and recall key safety protocols by scoring 90% or higher on the final knowledge assessment.",
+  "assessment_required": "yes",
+  "assessment_type": "final_assessment",
+  "assessment_evaluator": "expert_scored",
+  "assessment_pass_threshold": "90%",
+  "expert_evaluation_required": true,
+  "evidence_type": "scored_assessment"
+}

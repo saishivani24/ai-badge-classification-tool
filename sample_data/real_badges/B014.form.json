@@ -1,0 +1,13 @@
+{
+  "badge_title": "Make 102 Introduction to CO2 Laser Cutting",
+  "badge_description": "This badge recognizes students who have demonstrated competency in safely operating CO2 laser cutting equipment in the NJIT Makerspace.",
+  "issuer": "Makerspace",
+  "audience_type": "njit_student",
+  "earning_criteria_text": "Complete all online safety modules and pass the final assessment with 90% or higher. Demonstrate correct operation of the CO2 laser cutter in an in-person practical session supervised by a certified Makerspace instructor.",
+  "assessment_required": "yes",
+  "assessment_type": "practical",
+  "assessment_evaluator": "expert_scored",
+  "assessment_pass_threshold": "90%",
+  "expert_evaluation_required": true,
+  "evidence_type": "observed"
+}

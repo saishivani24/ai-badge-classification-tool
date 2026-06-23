@@ -1,0 +1,12 @@
+{
+  "badge_title": "Change Management Intermediate",
+  "badge_description": "Building on the foundational series, this intermediate badge deepens skills in navigating change at organizational and team levels.",
+  "issuer": "OSIL",
+  "audience_type": "njit_student",
+  "earning_criteria_text": "Students will attend 3 educational workshops and complete the pre and post assessment.",
+  "assessment_required": "yes",
+  "assessment_type": "pre_post_assessment",
+  "assessment_evaluator": "auto_assessed",
+  "expert_evaluation_required": false,
+  "has_prerequisite_badges": true
+}

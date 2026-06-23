@@ -1,0 +1,15 @@
+{
+  "badge_title": "AI Literacy and Fundamentals",
+  "badge_description": "This badge recognizes completion of AI Literacy and Fundamentals covering core AI concepts, tools, and applications relevant to NJIT faculty and staff.",
+  "issuer": "LDI",
+  "audience_type": "njit_employee",
+  "earning_criteria_text": "Complete all modules and pass the final assessment with 80% or higher.",
+  "assessment_required": "yes",
+  "assessment_type": "final_assessment",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "expert_evaluation_required": false,
+  "canvas_course_code": "MCAI.001.02",
+  "canvas_sequence_number": 2,
+  "canvas_pathway_length": 3
+}

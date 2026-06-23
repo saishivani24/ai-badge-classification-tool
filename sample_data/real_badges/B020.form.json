@@ -1,0 +1,12 @@
+{
+  "badge_title": "Strategic Thinking Capstone",
+  "badge_description": "This capstone badge recognizes students who have completed the Strategic Thinking leadership program. After completing the foundational and intermediate series, students attend a two day institute and present a capstone project to a panel.",
+  "issuer": "OSIL",
+  "audience_type": "njit_student",
+  "earning_criteria_text": "Students will attend a 2 day institute where they will attend 3 educational sessions and in teams work on a capstone project and present their project to a panel.",
+  "assessment_required": "yes",
+  "assessment_type": "module_completion",
+  "assessment_evaluator": "expert_scored",
+  "expert_evaluation_required": false,
+  "has_prerequisite_badges": true
+}
